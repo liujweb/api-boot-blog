@@ -12,12 +12,24 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'myblogs',
-      repo: '',
-      loadSidebar: true ,
-      coverpage: true
+      name: '知识研究院',
+      repo: 'http://10.0.0.107/yxj/api-boot-parant',
+      loadSidebar: true , // 侧边栏
+      coverpage: true,
+      auto2top: true,
+
+      // 搜索框的完整配置参数
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: [], // or 'auto'
+        placeholder: '输入内容检索',
+        noData: '未检索到结果',
+       // depth: 3,// 搜索标题的最大层级, 1 - 6
+        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>

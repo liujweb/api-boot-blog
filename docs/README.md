@@ -1,6 +1,7 @@
-# 最迷人的二营长
+# KK丶
 
 > [个人博客](https://blog.csdn.net/m0_37965018)
 
 
-> [GitHub](https://github.com/Corefo/ "github")
+> [GitLab](http://10.0.0.107/yxj/api-boot-parant "GitLab")
+
