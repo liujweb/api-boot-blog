@@ -4,6 +4,6 @@
 
 > 研发中心组件库
 
-[仓库地址](https://www.baidu.com)
+[仓库地址](http://10.0.0.107/yxj/api-boot-parent)
 [开始使用](#introduction)
 
