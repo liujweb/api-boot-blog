@@ -81,10 +81,21 @@
 > 1、pom.xml引入依赖
 
 ```xml
-       <dependency>
+        <dependency>
             <groupId>org.yxj.framework</groupId>
             <artifactId>spring-starter-alimq</artifactId>
             <version>1.0</version>
+        </dependency>
+```
+
+也可以使用旧版本依赖【使用效果一致】
+
+```xml
+        <!-- Mq config ali组件 -->
+        <dependency>
+            <groupId>cn.knowbox.book</groupId>
+            <artifactId>spring-boot-starter-alimq</artifactId>
+            <version>2.0.0.RELEASE</version>
         </dependency>
 ```
 
