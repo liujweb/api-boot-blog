@@ -5,5 +5,5 @@
 > 研发中心组件库
 
 [仓库地址](http://10.0.0.107/yxj/api-boot-parent)
-[开始使用](#introduction)
+[开始使用](api/统一固化版本)
 
