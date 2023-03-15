@@ -32,7 +32,7 @@ swagger:
     version: 1.0
 ```
 
-## 4. 使用
+## 3. 使用
 
 ```java
 此时，启动Spring Boot工程，在浏览器中访问：http://localhost:xxx/doc.html
