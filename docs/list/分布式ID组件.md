@@ -10,7 +10,7 @@
 
 ```xml
  <dependency>
-      <groupId>org.yxj.framework</groupId>
+      <groupId>org.bz.framework</groupId>
       <artifactId>spring-starter-sequence</artifactId>
  </dependency>
 ```

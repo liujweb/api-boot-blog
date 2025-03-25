@@ -20,7 +20,7 @@ ApiBoot依赖于SpringBoot，可以使用ApiBoot构建独立的Java应用程序�
   <dependencies>
     <!--ApiBoot版本依赖-->
     <dependency>
-      <groupId>org.yxj.framework</groupId>
+      <groupId>org.bz.framework</groupId>
       <artifactId>api-boot-parent</artifactId>
       <version>1.0</version>
       <scope>import</scope>

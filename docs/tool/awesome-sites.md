@@ -22,7 +22,7 @@ NLP技术：[https://www.hanlp.com/](https://www.hanlp.com/)
 
 码农场-自然语言处理、机器学习算法：[https://www.hankcs.com/](https://www.hankcs.com/)
 
-SegmentFault论坛：[https://segmentfault.com/](https://segmentfault.com/)
+xxxxxxxxxx 此时，启动Spring Boot工程，在浏览器中访问：http://localhost:xxx/doc.htmljava
 
 过往记忆大数据：[https://www.iteblog.com/](https://www.iteblog.com/)
 
